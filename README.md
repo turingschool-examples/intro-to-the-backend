@@ -7,7 +7,7 @@ lesson](https://frontend.turing.io/lessons/module-2/intro-to-the-backend.html).
 
 To get this up and running on your own machine, do the following:
 
-`git clone git@github.com:wvmitchell/intro-to-the-backend.git`  
+`git clone git@github.com:turingschool-examples/intro-to-the-backend.git`  
 `cd intro-to-the-backend`  
 `npm install`  
 
